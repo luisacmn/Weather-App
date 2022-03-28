@@ -1,4 +1,4 @@
-# FrontPedia
+# Weather App
 [Link](https://luisacmn.github.io/csb-p7syt9/)
 
 ## About
