@@ -1,5 +1,5 @@
 # Weather App
-[Link](https://luisacmn.github.io/csb-p7syt9/)
+[Link](https://csb-p7syt9.netlify.app/)
 
 ## About
 This is a simple and minimalist Weather app made with React.js and API. 
